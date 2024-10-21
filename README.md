@@ -1,8 +1,18 @@
-# contextMenu
 
-how to Run 
-1. clone the project
-2. install the typescript  'npm install -g typescript'
-3. check the typescript version to ensure the installation 'tsc --version'
-4. compile the typescript to javascript 'tsc index.ts'
-5. double click the index.html 
+# Context Menu
+
+Customize the right click menu button 
+
+## Installation
+
+Clone the project and open terminal in this folder
+
+install the typescript and compile the typescript file to javascript
+
+```bash
+  npm install -g typescript
+  tsc index.ts
+```
+
+double click the index.html to open the browser
+    
